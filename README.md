@@ -1,5 +1,5 @@
- Program ဢၼ်လူဝ်ၸႂ်ၼႂ်းၼႃႈၵၢၼ်တတ်းတေႃႇၵူႈလွင်ႈ
- Program ၸႂ်ႉလႆႈၼႂ်း iphone + ipad + And
+( ၵ ) Program ဢၼ်လူဝ်ၸႂ်ၼႂ်းၼႃႈၵၢၼ်တတ်းတေႃႇၵူႈလွင်ႈ
+( ၶ )Program ၸႂ်ႉလႆႈၼႂ်း iphone + ipad + And
   Computer + Lux လႆႈတၢင်း 
   32 bit + 64 bitMax + MaxOS 
   တၢင်းႁႅင်း ၶိုၼ်ႈမိူဝ်းၼိူဝ် intel + ios Lux 
