@@ -1,6 +1,9 @@
  Program ဢၼ်လူဝ်ၸႂ်ၼႂ်းၼႃႈၵၢၼ်တတ်းတေႃႇၵူႈလွင်ႈ
  Program ၸႂ်ႉလႆႈၼႂ်း iphone + ipad + And
- Computer + Lux လႆႈတႃင်း 32 bit + 64 bit
+  Computer + Lux လႆႈတၢင်း 
+  32 bit + 64 bitMax + MaxOS 
+  တၢင်းႁႅင်း ၶိုၼ်ႈမိူဝ်းၼိူဝ် intel + ios Lux 
+  ထႅင်ႈလၢႆလၢႆဢၼ်ၶႃႈ 
 
 1 . Cubase5 Pro ၸႂ်ႉတႃႇႁႅင်းသုင်သုတ်း 32 bit
 2 . Cubase10 + 11 + 12 + 13 + 14 Pro
