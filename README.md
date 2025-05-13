@@ -1,4 +1,7 @@
- Program ဢၼ်လူဝ်ၸႂ်ၼႂ်းၼႃႈၵၢၼ်တတ်းတေႃႇ
+ Program ဢၼ်လူဝ်ၸႂ်ၼႂ်းၼႃႈၵၢၼ်တတ်းတေႃႇၵူႈလွင်ႈ
+ Program ၸႂ်ႉလႆႈၼႂ်း iphone + ipad + And
+ Computer + Lux လႆႈတႃင်း 32 bit + 64 bit
+
 1 . Cubase5 Pro ၸႂ်ႉတႃႇႁႅင်းသုင်သုတ်း 32 bit
 2 . Cubase10 + 11 + 12 + 13 + 14 Pro
    
@@ -27,4 +30,4 @@ VSTPlugin Pino & VSTPlugin Drumar &
 ထႅင်ႈ Plugin + လၢႆလၢႆဢၼ် လၢႆလၢႆမဵဝ်း 
 
 ၶၵ်းတွၼ်ႈ ႑ တေလႆႈမီး Computer 
-ၶၵ်ႉတွၼ်ႈ ႒ တေလႆႈမီး Program Cubase Studio one FL studio Pro
+ၶၵ်ႉတွၼ်ႈ ႒ တေလႆႈမီး Program Cubase Studio one FL studio Pro 
