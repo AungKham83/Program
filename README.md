@@ -1,4 +1,5 @@
 ( ၵ ) Program ဢၼ်လူဝ်ၸႂ်ၼႂ်းၼႃႈၵၢၼ်တတ်းတေႃႇၵူႈလွင်ႈ
+
 ( ၶ )Program ၸႂ်ႉလႆႈၼႂ်း iphone + ipad + And
   Computer + Lux လႆႈတၢင်း 
   32 bit + 64 bitMax + MaxOS 
